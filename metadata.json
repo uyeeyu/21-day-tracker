@@ -1,0 +1,8 @@
+{
+  "name": "21-Day Agency Log",
+  "description": "A Kawaii Pixel-Art Digital Agency Journal for tracking sleep, food, digital detox, and creative output over a 21-day cycle.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
